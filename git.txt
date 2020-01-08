@@ -1,8 +1,0 @@
-C:\Users\Bakerman2\Dropbox\Programming\Py_Django\projects\django_girls>git init
-Initialized empty Git repository in C:/Users/Bakerman2/Dropbox/Programming/Py_Django/projects/django_girls/.git/
-
-C:\Users\Bakerman2\Dropbox\Programming\Py_Django\projects\django_girls>git config --global user.name "Bratapfel2000"
-
-C:\Users\Bakerman2\Dropbox\Programming\Py_Django\projects\django_girls>git config --global user.email patrickh.1982.1a@gmail.com
-
-C:\Users\Bakerman2\Dropbox\Programming\Py_Django\projects\django_girls>
